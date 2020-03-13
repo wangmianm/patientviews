@@ -1,0 +1,13 @@
+.el-table {
+    .el-table__header-wrapper {
+        .el-table__header {
+            .has-gutter {
+                color: #333333;
+                th {
+                    background-color:rgba(250,250,250,5);
+                    border-top: 1px solid #EBEEF5;
+                }
+            }
+        }
+    }
+}
